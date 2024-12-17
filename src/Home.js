@@ -70,7 +70,7 @@ const Home = () => {
             <li><strong>About Us</strong></li>
             <p>Bookshell is a Professional Online selling and buying platform. Here we provide you with  academics and self help books. We are committed to provide you the best platform for buying and selling different books, with a focus on reliability and efficiency. we strive to turn our passion for sharing knowledge into a thriving website.</p>
             <li className=''><b>Contact Us</b></li>
-          <li className='flex'> <img  className="h-[17px] inline" src={gmail}  alt="gmail" /> <p className='' >bookshell82326@gmail.com</p></li>
+          <li className='flex'> <img  className="h-[17px] inline" src={gmail}  alt="gmail" /> <p className='' >bookshell823268@gmail.com</p></li>
           <li className='flex'> <img  className="h-[17px]" src={call}  alt="call" /><p>1234567890</p></li>
             <li className='flex'><img className='h-[17px]' src={linkedin} alt="linkedin"/><p>bookshell98765h9boilnkedin.com</p></li>
             
